@@ -1,2 +1,2 @@
 # Laboratorio-1
-## Bicialpes Analysis
+## BiciAlpes Analysis
